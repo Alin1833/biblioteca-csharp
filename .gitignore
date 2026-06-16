@@ -1,0 +1,11 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+[Dd]ebug/
+[Rr]elease/
+.DS_Store
+Thumbs.db
